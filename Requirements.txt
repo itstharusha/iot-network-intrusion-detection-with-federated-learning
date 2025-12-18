@@ -1,0 +1,10 @@
+tensorflow==2.16.1
+dask
+pandas
+numpy
+scikit-learn
+imbalanced-learn==0.12.0
+matplotlib
+seaborn
+shap
+flwr  # For federated learning
